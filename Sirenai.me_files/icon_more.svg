@@ -1,0 +1,10 @@
+<svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon_more">
+<mask id="mask0_2452_2130" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="14" height="14">
+<rect id="Rectangle 247" x="14" width="14" height="14" transform="rotate(90 14 0)" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_2452_2130)">
+<path id="Rectangle 222" d="M11.4594 2.59611C12.9752 2.59611 13.8732 4.2921 13.0211 5.54576L8.5763 12.0859C7.82701 13.1884 6.20212 13.1884 5.45284 12.0859L1.00799 5.54576C0.155971 4.2921 1.05393 2.59611 2.56972 2.59611L11.4594 2.59611Z" fill="#67DDF7"/>
+</g>
+</g>
+</svg>
